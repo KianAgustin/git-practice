@@ -1,3 +1,1 @@
 # git-practice
-## HASHTAG
-# HASTAG #
